@@ -26,6 +26,7 @@ This web application is composed of three main layers:
 ---
 
 ## 🧠 Architecture Overview
+
 ai-powered-web-homepage/
 ├── frontend/ # React-based UI
 ├── backend/ # Node.js API
