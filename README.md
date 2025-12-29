@@ -61,9 +61,13 @@ This modular separation keeps the system clean, maintainable, and extensible.
 ## 📁 Project Structure
 
 ai-powered-web-homepage/
+
 ├── frontend/ # React-based UI
+
 ├── backend/ # Node.js API
+
 ├── python-service/ # Python logic / AI processing
+
 └── README.md
 
 ---
